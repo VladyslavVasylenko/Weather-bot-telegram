@@ -1,6 +1,5 @@
 import datetime
 import requests
-from pprint import pprint
 from config import open_weather_token
 
 def get_weather(city, open_weather_token):
