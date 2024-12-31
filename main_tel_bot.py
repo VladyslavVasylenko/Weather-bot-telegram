@@ -55,7 +55,7 @@ async def get_weather(message: types.Message):
                         f'\n'
                         f"Схід сонця: {sunrise_timestamp}\nЗахід сонця: {sunset_timestamp}\nТривалість дня: {length_of_the_day}\n"
                         f'\n'
-                        f"Гарного вам дня! Слава Україні!"
+                        f"Гарного вам дня!"
                           )
 
   except:
